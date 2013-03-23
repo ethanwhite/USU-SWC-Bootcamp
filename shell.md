@@ -282,8 +282,11 @@ We can use this to get the most common species at any of the sites
     for datafile in *.txt
 	do
 	    echo $datafile
-		python species_counts.py $datafile | sort -k 2 | tail -1
+		python species_counts.py $datafile
 	done
+
+**EXERCISE: Write a loop that prints out the name of each datafile followed by
+the most common species in that datafile.**
 
 ### Scripts
 

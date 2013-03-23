@@ -33,10 +33,9 @@ Two kinds of memory:
 
 1. Long-term memory, unlimited capacity, really slow
 2. Short-term, really fast
-
-    * Phone numbers 6-8 digits
-    * Modern phone numbers are big (area code + 7)
-    * but we don't remember area codes as 3 digits, we remember them as 1 chunk
+  * Phone numbers 6-8 digits
+  * Modern phone numbers are big (area code + 7)
+  * but we don't remember area codes as 3 digits, we remember them as 1 chunk
 
 ### Chunking
 

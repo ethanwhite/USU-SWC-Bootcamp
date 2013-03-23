@@ -56,17 +56,11 @@ git log
 
 * Add new observations to plant_list.txt
 
-* Create a new file called habitat_list.txt, add this to the repo
+* Create a new file called sites.txt, add this to the repo
 
 
 Move and Remove Files
 -------------
-
-nano sites.txt 
-
-git add sites.txt 
-
-git commit sites.txt -m "Add information on sites"
 
 git mv sites.txt site_list.txt
 
@@ -78,7 +72,7 @@ git status
 
 nano habitat_list.txt
 
-git add habitats_list.txt
+git add .
 
 git commit habitats.txt -m "Add a habitat data file"
 

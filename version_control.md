@@ -1,5 +1,8 @@
 Version Control Using Git
 ===============================================
+Licence
+-------
+CC-BY
 
 Author
 ------

@@ -13,7 +13,7 @@ Mac: http://mouapp.com/
 
 To easily download all the files in this repo to your local machine use the following command in the terminal:
 
-git clone git://github.com/ethanwhite/USU-SWC-Bootcamp.git
+	git clone git://github.com/ethanwhite/USU-SWC-Bootcamp.git
 
 this will place the directory USU-SWC-Bootcamp in your currently active directory.  
 
